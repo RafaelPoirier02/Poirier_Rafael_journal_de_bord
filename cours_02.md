@@ -8,16 +8,20 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 
 ### Lien 1 
 Expliquer pourquoi vous avez choisi ce lien. 
-
+[Ubisoft](https://www.ubisoft.com/fr-ca/) 
+Car j'aime leurs jeux qui sont affectés dans l'histoire. Comme Assassin's Creed.
 ### Lien 2 
 Expliquer pourquoi vous avez choisi ce lien.
+[343 industries](https://www.343industries.com/) 
 
 ### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+Expliquer pourquoi vous avez choisi ce lien.
+[Capcom](https://www.capcom.com/) 
 
 ### Lien 4 
 Expliquer pourquoi vous avez choisi ce lien. 
+[Bethesda.net](https://bethesda.net/fr/dashboard)
 
 ### Lien 5 
 Expliquer pourquoi vous avez choisi ce lien. 
-
+[Dreamworks](https://www.dreamworks.com/) 
