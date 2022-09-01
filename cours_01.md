@@ -14,8 +14,8 @@ Bonjour, je m'appelle Rafael Poirier. J'ai choisi l'intégration multimédia, ca
 
 Je voudrai être designer informatique, car j'aime analysé l'animation et la texture dans les films et dans les jeux-vidéos.
 
-*le cours que je trouve le plus intéressant dans mon programme est la photographie. 
+* le cours que je trouve le plus intéressant dans mon programme est la photographie. 
 
-*Jaime écouté de la musique, préférablement du rock.
+* Jaime écouté de la musique, préférablement du rock.
 
 Quand j'ai rien à faire, je passe mon temps à dessiner.
