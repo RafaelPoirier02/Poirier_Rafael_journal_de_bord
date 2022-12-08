@@ -4,3 +4,5 @@ Créer une carte heuristique en lien avec votre présentation 2 et la joindre ic
 
 
 ![Carte heuristique](Images/Carteheuristique.jpg)
+
+https://trello.com/c/QNFCwYEv/13-carte-heuristique#
